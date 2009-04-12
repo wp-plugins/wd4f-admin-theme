@@ -3015,3 +3015,17 @@ table.fixed {
 	line-height: 1;
 	padding-left: 25px;
 }
+/* bof The Branded-Admin scetion by Kerry Webster */
+#wp-logo {
+	display:none;
+}
+p#footer-left {
+	margin-left:-15px;
+}
+span#wp-version-message {
+	display:none;
+}
+p.akismet-right-now {
+	mar gin-top:-10px;
+}
+/* bof The Branded-Admin scetion by Kerry Webster */

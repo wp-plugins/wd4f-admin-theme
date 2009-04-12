@@ -5,22 +5,17 @@ Donate Link: I don't need your money ;)
 Tags: admin, theme, lime, color, individual, admin-theme, wd4f, willdesignforfood, green, light
 Requires at least: 2.6
 Tested up to: 2.7.x
-Stable tag: 1.0
+Stable tag: 1.1
 
 
 == Description ==
 This is a plugin to change your administration style in Wordpress. Nothing more but nothing less.
-This theme requires the 'Branded-Admin' plugin by Kerry Webster. You can download it here: http://kerrywebster.com/my-current-plugins/branded-admin/
 
 
 == Installation ==
-1. Download the 'Branded-Admin' plugin by Kerry Webster (http://kerrywebster.com/my-current-plugins/branded-admin/)
-2. Follow the install instructions in the plugins readme.txt
-3. Go the Wordpress plugin-panel and active the 'Branded-Admin' plugin
-4. Copy the here included files ('branded-footer.png' and 'branded-header.png') from the folder 'for-branded-admin' to '/wp-content/plugins/branded-admin/images/'
-5. Upload the whole `wd4f-admin-theme` folder to the `/wp-content/plugins/` directory
-6. Activate the plugin through the 'Plugins' menu in WordPress
-7. Finished.
+1. Upload the whole `wd4f-admin-theme` folder to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Finished.
 
 
 == Frequently Asked Questions ==
@@ -28,7 +23,8 @@ None at this time.
 
 
 == Screenshots ==
-None at this time.
+screenshot-1.png
+screenshot-2.png
 
 
 == License ==
