@@ -5,7 +5,7 @@ Donate Link: I don't need your money ;)
 Tags: admin, theme, lime, color, individual, admin-theme, wd4f, willdesignforfood, green, light
 Requires at least: 2.6
 Tested up to: 2.7.x
-Stable tag: 1.1
+Stable tag: 1.1.1
 
 
 == Description ==
