@@ -4,7 +4,7 @@ Plugin Name: WD4F Theme
 Plugin URI: http://willdesignforfood.de/2009/04/03/wp-admin-theme/
 Description: WD4F WordPress Admin Theme - Upload and Activate.
 Author: Burkhard Mudrick
-Version: 1.1.1
+Version: 1.2
 Author URI: http://willdesignforfood.de/
 */
 
@@ -42,6 +42,11 @@ global $wd4f_header_wphead_height, $wd4f_header_logo, $wd4f_header_logo_width, $
 	$sbh .= '  jQuery("img#header-logo").wrap("<a href=\"/\"></a>");';
 	$sbh .= '</script>';
 	echo $sbh;
+}
+add_action('update_right_now_message', 'wd4f_update_right_now_message');
+
+function wd4f_update_right_now_message () {
+	echo 'Current version ' . get_bloginfo('version');
 }
 
 add_filter('admin_footer', 'wd4f_footer',1,0);
