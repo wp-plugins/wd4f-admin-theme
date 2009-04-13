@@ -23,8 +23,8 @@ None at this time.
 
 
 == Screenshots ==
-screenshot-1.png
-screenshot-2.png
+1. Dashboard
+2. Plugin overview
 
 
 == License ==
